@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://blog.300coders.com/atom.xml" rel="self"/>
+  <link href="http://blog.300coders.com/"/>
+  <updated>2013-11-08T16:37:20-08:00</updated>
+  <id>http://blog.300coders.com/</id>
+  <author>
+    <name><![CDATA[Murali Paluru]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
