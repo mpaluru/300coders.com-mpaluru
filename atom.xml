@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://blog.300coders.com/atom.xml" rel="self"/>
-  <link href="http://blog.300coders.com/"/>
-  <updated>2013-11-08T16:37:20-08:00</updated>
-  <id>http://blog.300coders.com/</id>
+  <link href="http://blog.300coders.com/mpaluru/atom.xml" rel="self"/>
+  <link href="http://blog.300coders.com/mpaluru/"/>
+  <updated>2013-11-08T16:59:00-08:00</updated>
+  <id>http://blog.300coders.com/mpaluru/</id>
   <author>
     <name><![CDATA[Murali Paluru]]></name>
     
